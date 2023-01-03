@@ -1,1 +1,2 @@
-# programming-of-problem-solving-with-python
+# ComputerProject
+Computer Project
